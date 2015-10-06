@@ -1,0 +1,7 @@
+  6c) Implement a doubly ended queue DEQUE with following operations:
+
+  first, last
+   InsertFirst,  InsertLast
+   RemoveFirst, RemoveLast
+   sizeof, isEmpty
+    
